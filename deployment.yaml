@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: zomato-clone
-        image: mukulnvm/zomato-clone:4
+        image: mukulnvm/zomato-clone:5
         ports:
         - containerPort: 8000
